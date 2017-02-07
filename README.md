@@ -6,3 +6,6 @@ where did that change go?
 pr test
 
 puppies are da best. more test stuff.
+
+how to install:
+1. there's nothing to install, so just do whatever
