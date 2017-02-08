@@ -10,3 +10,4 @@ puppies are da best. more test stuff.
 how to install:
 1. there's nothing to install, so just do whatever
 2. branch test. not installing
+3. More tests. it's fun.
