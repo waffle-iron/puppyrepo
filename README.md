@@ -17,3 +17,4 @@ how to install:
   7. will this work? 
 wafflebot test
 hi
+test
