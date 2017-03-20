@@ -1,4 +1,5 @@
 # puppyrepo
+[![Throughput Graph](https://graphs.waffle.io/kellihsf/puppyrepo/throughput.svg)](https://waffle.io/kellihsf/puppyrepo/metrics/throughput)
 
 flowers smell nice. sometimes if you fill up this space, it looks like a lot of words. well it is a lot of words, but not really saying much, ya know?
 
