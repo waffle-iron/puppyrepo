@@ -19,3 +19,4 @@ how to install:
 wafflebot test
 hi
 test
+this is such a weird list to test things.
