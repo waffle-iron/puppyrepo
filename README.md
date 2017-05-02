@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/kellihsf/puppyrepo.png?label=ready&title=Ready)](https://waffle.io/kellihsf/puppyrepo)
 # puppyrepo
 [![Throughput Graph](https://graphs.waffle.io/kellihsf/puppyrepo/throughput.svg)](https://waffle.io/kellihsf/puppyrepo/metrics/throughput)
 
